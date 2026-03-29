@@ -25,3 +25,42 @@
    25  ls
    26  touch git_commnds.txt
    27  history
+
+
+   =================================
+      75  git remote -v
+   76  git push origion master
+   77  git remote -v
+   78  git push origin master
+   79  ls
+   80  touch test1 test2 test3
+   81  git push test1
+   82  git add test1
+   83  git push test1
+   84  git push origin master
+   85  ls
+   86  git status
+   87  git add test2
+   88  git commit -m "Added test1 and test2"
+   89  git status
+   90  git push origin master
+   91  git pull origin master
+   92  ls
+   93  cat test4
+   94  git add test3
+   95  git commit -m "Added test3"
+   96  git push origin main
+   97  cd ..
+   98  ls
+   99  cd document
+  100  cd ..
+  101  ls
+  102  cd Documents/
+  103  ls
+  104  mkdir github_cloned_repository
+  105  ls
+  106  cd github_cloned_repository/
+  107  git clone https://github.com/Muhammadnuman007/atomic-design-lib.git
+  108  ls
+  109  history
+
