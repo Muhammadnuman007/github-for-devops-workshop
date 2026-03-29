@@ -1,0 +1,27 @@
+1  ls#
+    2  ls -;a
+    3  ls -la
+    4  gitb status
+    5  git status
+    6  git add testing.py
+    7  git stage
+    8  git status
+    9  git rm --cached
+   10  git status
+   11  git rm --cached testing.py
+   12  git status
+   13  git status
+   14  git add testing.py
+   15  git commit -m "1st commit"
+   16  git config --global --edit
+   17  clear
+   18  git commit -m "Added testing.py"
+   19  git status
+   20  ls -la
+   21  rm testing.py
+   22  ls -la
+   23  ls
+   24  git restore testing.py
+   25  ls
+   26  touch git_commnds.txt
+   27  history
